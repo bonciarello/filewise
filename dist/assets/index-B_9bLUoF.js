@@ -260,7 +260,7 @@ Formati di file comuni:
   DATI:      .json, .csv, .xml
   WEB:       .html, .css, .js
 
-Creato da FileWise - https://cristianporco.it/app/filewise/`;return new Blob([e],{type:"text/plain"})}},{id:"md",name:"MD",extension:".md",category:"documenti",description:"Markdown è un formato di testo leggero con marcatori semplici per aggiungere struttura (titoli, grassetto, link, elenchi). Usatissimo nella documentazione tecnica.",uses:"Documentazione software (README), blogging, note tecniche, messaggi su GitHub/GitLab, Wiki.",programs:"Qualsiasi editor di testo, VSCode con anteprima (gratis), Obsidian (gratis), Typora, GitHub.",iconColor:"#546E7A",mime:"text/markdown",sampleGenerator:()=>{const e=`# FileWise — Vademecum visivo dei formati di file
+Creato da FileWise - https://github.com/bonciarello/filewise/`;return new Blob([e],{type:"text/plain"})}},{id:"md",name:"MD",extension:".md",category:"documenti",description:"Markdown è un formato di testo leggero con marcatori semplici per aggiungere struttura (titoli, grassetto, link, elenchi). Usatissimo nella documentazione tecnica.",uses:"Documentazione software (README), blogging, note tecniche, messaggi su GitHub/GitLab, Wiki.",programs:"Qualsiasi editor di testo, VSCode con anteprima (gratis), Obsidian (gratis), Typora, GitHub.",iconColor:"#546E7A",mime:"text/markdown",sampleGenerator:()=>{const e=`# FileWise — Vademecum visivo dei formati di file
 
 Uno strumento interattivo per **riconoscere e capire** i formati di file.
 

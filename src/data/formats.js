@@ -1184,7 +1184,7 @@ Formati di file comuni:
   DATI:      .json, .csv, .xml
   WEB:       .html, .css, .js
 
-Creato da FileWise - https://cristianporco.it/app/filewise/`
+Creato da FileWise - https://github.com/bonciarello/filewise/`
       return new Blob([txt], { type: 'text/plain' })
     }
   },
